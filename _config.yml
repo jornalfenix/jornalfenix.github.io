@@ -40,7 +40,7 @@ author: Gremio
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Jornal Fenix (cleft) 2017-{currentYear} {author}"
+copyright: "Jornal Fenix (cleft) 2024-{currentYear} {author} & Rafael Teixeira"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Um jornal estudantil, focado em noticias sobre o mundo escolar
@@ -52,7 +52,7 @@ favicon: "" # the favicon for your site
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 yat:
-  date_format: "%b %d, %Y"
+  date_format: "%d / %b / %Y"
 
 # If you want more debug log, you can set true
 # debug: false
@@ -71,34 +71,23 @@ yat:
 # sitemap: false
 
 # If you want to change site language, you can set lang option
-# lang: "en"  # default lang is en
+lang: "pt"  # default lang is en
 
-# Translate languges
-# langs refer to https://cloud.google.com/translate/docs/languages
-# translate_langs:
-#   - lang: en
-#     img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
-#     text: English
-#
-#   - lang: fr
-#     img: https://cdn.countryflags.com/thumbs/france/flag-400.png
-#     text: French
-#
-#   - lang: zh-CN
-#     img: https://cdn.countryflags.com/thumbs/china/flag-400.png
-#     text: Chinese(Simple)
-#
-#   - lang: ja
-#     img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
-#     text: Japanese
-#
-#   - lang: ko
-#     img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
-#     text: Korean
-#
-#   - lang: ru
-#     img: https://cdn.countryflags.com/thumbs/russia/flag-400.png
-#     text: Russian
+#Translate languges
+#langs refer to https://cloud.google.com/translate/docs/languages
+translate_langs:
+  - lang: pt
+    img: https://cdn.countryflags.com/thumbs/brazil/flag-400.png
+    text: Português (Brasil)
+
+  - lang: en
+    img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
+    text: English
+
+  - lang: fr
+    img: https://cdn.countryflags.com/thumbs/france/flag-400.png
+    text: French
+
 
 # You can choose a theme color
 # Default theme colors as below:
