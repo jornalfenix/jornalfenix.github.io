@@ -18,7 +18,7 @@ description: "Um jornal estudantil, focado em noticias sobre o mundo escolar" # 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "jekyll-theme-feeling-responsive"
+theme: "minima"
 
 kramdown:
   syntax_highlighter_opts:
