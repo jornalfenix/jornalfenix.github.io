@@ -18,7 +18,7 @@ description: "Um jornal estudantil, focado em noticias sobre o mundo escolar" # 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-remote_theme: pages-themes/cayman@v0.2.0
+theme: "minima"
 
 rss: rss
 
