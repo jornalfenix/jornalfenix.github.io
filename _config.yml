@@ -86,7 +86,11 @@ translate_langs:
 
   - lang: fr
     img: https://cdn.countryflags.com/thumbs/france/flag-400.png
-    text: French
+    text: François
+
+  - lang: it
+    img: https://cdn.countryflags.com/thumbs/italy/flag-400.png
+    text: Italiano
 
 
 # You can choose a theme color

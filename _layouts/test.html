@@ -27,10 +27,11 @@ sidebar:
 
     {%- assign result = hidden | where_exp: "item", "item == 'navigator'" -%}
     {%- if result.size == 0 -%}
-
-    <div style="position: relative; width: 100%;">
-      <iframe style="height: 672px; border: 0;" frameBorder="0" width="100%" height="100%" allowFullScreen="false" scrolling="no" src="{{page.palavra_cruzada}}"></iframe>
-      <p style="margin-top: 16px">More puzzles at <a href="https://webwordsearch.com/">webwordsearch.com</a></p>
+    <div class="white-box">
+        <div style="position: relative; width: 100%;">
+          <iframe style="height: 672px; border: 0;" frameBorder="0" width="100%" height="100%" allowFullScreen="false" scrolling="no" src="{{page.palavra_cruzada}}"></iframe>
+          <p style="margin-top: 16px">More puzzles at <a href="https://webwordsearch.com/">webwordsearch.com</a></p>
+        </div>
     </div>
 
     <div class="post-nav">
