@@ -1,11 +1,9 @@
 ---
 layout: test
-title: Teste markdown
-subtitle: Each post also has a subtitle
-categories: markdown
+title: Caça Palavras 30/09/24
+subtitle:
+categories:
 palavra_cruzada: https://webwordsearch.com/share/?data=eyJpZCI6Im0wZWQ0OTkwaTVzcHI1YmNvbGwiLCJncmlkU2l6ZSI6MTIsInRpdGxlIjoiQW5pbWFpcyIsIndvcmRzIjpbImNhY2hvcnJvIiwiZ2F0byIsInJhdG8iLCJtb3JjZWdvIiwiYXZlc3RydXoiLCJwaW5ndWltIiwidGFydGFydWdhIiwiYWxiYXRyb3oiXSwic2VlZCI6LTIwMDk1NDkwNjcsImRpcmVjdGlvbnMiOlsidXAiLCJkb3duIiwicmlnaHQiLCJkaWFnb25hbC11cC1yaWdodCIsImRpYWdvbmFsLWRvd24tcmlnaHQiXSwicm93cyI6MTIsImNvbHMiOjEyfQ==
-tags: [test]
+tags: [Caça Palavras]
 ---
-## Post Teste
-
-Se você chegou até aqui é porque tá funcionando
+# Caça palavras do dia
