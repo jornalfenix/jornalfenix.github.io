@@ -2,11 +2,9 @@
 layout: post
 title: A Morte de Équilo
 subtitle:
-categories:
-tags: [Curiosidades Históricas]
+categories: [Curiosidades Históricas]
+tags:
 ---
-
-# A Morte de Équilo
 
 Você já se questionou qual foi a morte mais estranha do mundo?
 

@@ -2,14 +2,9 @@
 layout: post
 title: Executiva de Vendas
 subtitle:
-author: Gabriela Oliveira
-categories: panorama-de-profissoes
-tags: profissoes
-top: 1
-sidebar: []
+categories: [Panorama de Profissões]
+tags:
 ---
-
-# Executiva de Vendas
 
 Que existam milhares de profissões no mundo, você já sabe. Mas, além das mais óbvias (que logicamente serão apresentadas aqui um dia), você já foi atrás de procurar outras profissões bem remuneradas ou que tratem de algo de seu interesse?
 
@@ -21,8 +16,9 @@ Além disso, ao abordar os requisitos para este emprego, é importante destacar 
 
 Enfim, qual faculdade cursar para se tornar um executivo de vendas? Uma das opções recomendadas é a faculdade de gestão comercial. A duração desse curso depende da titulação escolhida, podendo variar entre 2 e 4 anos. Essa formação aborda exatamente o que é exigido de um executivo de vendas, trazendo disciplinas como marketing, negociação, administração de vendas, comportamento do consumidor, logística e gestão financeira.
 
-Agora, quando o curso estiver concluído e for a hora de procurar emprego, é importante saber: quanto ganha, em média, um executivo de vendas? Na verdade, há três fases quando se trata desse salário. No nível inicial, os salários variam entre R$ 2.000 e R$ 5.000. A média da indústria vai de R$ 5.000 a R$ 15.000, e, por último, executivos de alto nível podem receber acima de R$ 20.000.
+Agora, quando o curso estiver concluído e for a hora de procurar emprego, é importante saber: quanto ganha, em média, um executivo de vendas? Na verdade, há três fases quando se trata desse salário. No nível inicial, os salários variam entre R\$$2.000$ e RS 5.000. A média da indústria vai de RS 5.000 a R\$$15.000, e, por último, executivos de alto nível podem receber acima de R$ 20.000.
 
 Dessa forma, entendemos um pouco sobre como funciona essa profissão honesta e superinteressante. Espera-se que esta coluna tenha te ajudado de alguma forma, quem sabe clareando suas ideias sobre um futuro cargo. Se realmente te impactou, aproveite e pesquise mais sobre o assunto em fontes confiáveis que te expliquem de forma objetiva!
 
 Redatora: Gabriela Oliveira
+

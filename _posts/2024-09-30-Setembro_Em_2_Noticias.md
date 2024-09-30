@@ -2,11 +2,9 @@
 layout: post
 title: O Mês de Setembro em 2 Notícias
 subtitle:
-categories:
-tags: [Notícias da Atualidade]
+categories: [Notícias da Atualidade]
+tags:
 ---
-
-# O Mês de Setembro em 2 Notícias
 
 ## Disputa presidencial americana
 

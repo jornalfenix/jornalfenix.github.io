@@ -2,8 +2,8 @@
 layout: post
 title: Desabafo
 subtitle:
-categories:
-tags: [Contos Fictícios]
+categories: [Contos Fictícios]
+tags:
 ---
 
 Estou aqui, tentando passar meus sentimentos para o papel, numa última tentativa desesperada de que eles desapareçam junto com a tinta da caneta. Para resumir, estou apaixonado. Bem inovador, não? Mas temo dizer que este relato sobre paixão não será o tipo que alguém deseje. Este é o relato de muitos de nós, sobre amar uma rosa que não está em nossos jardins. Então já aviso: se não gosta de finais tristes, passe para outra história.

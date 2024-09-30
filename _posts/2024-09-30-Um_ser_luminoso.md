@@ -2,11 +2,9 @@
 layout: post
 title: Um ser Luminoso
 subtitle:
-categories:
-tags: [Palavra do Pastor]
+categories: [Palavra do Pastor]
+tags:
 ---
-
-# Um ser Luminoso
 
 Mateus 6: 22-23
 _São os olhos a lâmpada do corpo. Se os teus olhos forem bons, todo o teu corpo será luminoso; se, porém, os teus olhos forem maus, todo o teu corpo estará em trevas. Portanto, caso a luz que há em ti sejam trevas, grandes trevas serão!_
