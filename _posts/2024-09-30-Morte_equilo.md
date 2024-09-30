@@ -4,6 +4,7 @@ title: A Morte de Équilo
 subtitle:
 categories: [Curiosidades Históricas]
 tags:
+excerpt_image: https://github.com/jornalfenix/jornalfenix.github.io/assets/images/morte_equilo.jpeg
 ---
 
 Você já se questionou qual foi a morte mais estranha do mundo?

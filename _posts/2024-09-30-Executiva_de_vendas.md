@@ -4,6 +4,7 @@ title: Executiva de Vendas
 subtitle:
 categories: [Panorama de Profissões]
 tags:
+excerpt_image: https://github.com/jornalfenix/jornalfenix.github.io/assets/images/executiva_vendas.jpeg
 ---
 
 Que existam milhares de profissões no mundo, você já sabe. Mas, além das mais óbvias (que logicamente serão apresentadas aqui um dia), você já foi atrás de procurar outras profissões bem remuneradas ou que tratem de algo de seu interesse?
