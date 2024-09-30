@@ -1,12 +1,15 @@
 ---
 layout: post
-title: Executivo de Vendas
+title: Executiva de Vendas
 subtitle:
-categories:
-tags: [Panorama de Profissões]
+author: Gabriela Oliveira
+categories: panorama-de-profissoes
+tags: profissoes
+top: 1
+sidebar: []
 ---
 
-# Executivo de Vendas
+# Executiva de Vendas
 
 Que existam milhares de profissões no mundo, você já sabe. Mas, além das mais óbvias (que logicamente serão apresentadas aqui um dia), você já foi atrás de procurar outras profissões bem remuneradas ou que tratem de algo de seu interesse?
 
@@ -23,4 +26,3 @@ Agora, quando o curso estiver concluído e for a hora de procurar emprego, é im
 Dessa forma, entendemos um pouco sobre como funciona essa profissão honesta e superinteressante. Espera-se que esta coluna tenha te ajudado de alguma forma, quem sabe clareando suas ideias sobre um futuro cargo. Se realmente te impactou, aproveite e pesquise mais sobre o assunto em fontes confiáveis que te expliquem de forma objetiva!
 
 Redatora: Gabriela Oliveira
-

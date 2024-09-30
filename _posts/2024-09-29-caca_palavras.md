@@ -4,6 +4,6 @@ title: Caça Palavras 30/09/24
 subtitle:
 categories:
 palavra_cruzada: https://webwordsearch.com/share/?data=eyJpZCI6Im0wZWQ0OTkwaTVzcHI1YmNvbGwiLCJncmlkU2l6ZSI6MTIsInRpdGxlIjoiQW5pbWFpcyIsIndvcmRzIjpbImNhY2hvcnJvIiwiZ2F0byIsInJhdG8iLCJtb3JjZWdvIiwiYXZlc3RydXoiLCJwaW5ndWltIiwidGFydGFydWdhIiwiYWxiYXRyb3oiXSwic2VlZCI6LTIwMDk1NDkwNjcsImRpcmVjdGlvbnMiOlsidXAiLCJkb3duIiwicmlnaHQiLCJkaWFnb25hbC11cC1yaWdodCIsImRpYWdvbmFsLWRvd24tcmlnaHQiXSwicm93cyI6MTIsImNvbHMiOjEyfQ==
-tags: [Caça Palavras]
+tags: [caça-palavras]
 ---
 # Caça palavras do dia

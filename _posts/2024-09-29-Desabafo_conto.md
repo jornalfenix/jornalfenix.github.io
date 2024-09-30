@@ -6,8 +6,6 @@ categories:
 tags: [Contos Fictícios]
 ---
 
-# Desabafo
-
 Estou aqui, tentando passar meus sentimentos para o papel, numa última tentativa desesperada de que eles desapareçam junto com a tinta da caneta. Para resumir, estou apaixonado. Bem inovador, não? Mas temo dizer que este relato sobre paixão não será o tipo que alguém deseje. Este é o relato de muitos de nós, sobre amar uma rosa que não está em nossos jardins. Então já aviso: se não gosta de finais tristes, passe para outra história.
 
 Começarei contando sobre minha situação. Tenho essa paixão por ele há milênios, e ela nunca passou como eu achei que passaria. Muito pelo contrário, não consigo imaginar amá-lo mais do que o amo hoje, mas foi exatamente isso que pensei ontem, antes de ontem e no dia anterior. Já vimos tantas coisas juntos, passamos por diversas situações e, mesmo assim, ele nunca foi embora. Sempre ficou aqui cuidando de todos, mesmo que isso, um dia, o consuma.
