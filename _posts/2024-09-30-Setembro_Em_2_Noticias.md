@@ -4,7 +4,7 @@ title: O Mês de Setembro em 2 Notícias
 subtitle:
 categories: [Notícias da Atualidade]
 tags:
-excerpt_image: https://github.com/jornalfenix/jornalfenix.github.io/assets/images/setembro_2.jpeg
+excerpt_image: https://raw.githubusercontent.com/jornalfenix/jornalfenix.github.io/ad58ca6849acf6c47934a565219a9f4d8a8177cb/assets/images/setembro_2.jpeg
 ---
 
 ## Disputa presidencial americana
